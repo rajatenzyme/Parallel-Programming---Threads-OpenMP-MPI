@@ -1,0 +1,2 @@
+# openmpi
+Open-mpi programs
